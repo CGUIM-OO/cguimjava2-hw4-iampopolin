@@ -21,7 +21,7 @@ public class HW4 {
 		ArrayList<Card> player1Card=new ArrayList<Card>();
 		player1Card.add(deck.getOneCard(true));
 		player1Card.add(deck.getOneCard(true));
-		player1.setOneRoundCard(player1Card);
+		player1.setOneRoundCard(player1Card);//現在有幾張牌 2張?
 		
 		ArrayList<Card> player2Card=new ArrayList<Card>();
 		player2Card.add(deck.getOneCard(true));

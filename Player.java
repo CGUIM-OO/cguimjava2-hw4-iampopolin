@@ -33,7 +33,7 @@ public class Player {
 	 }
 	 public void setOneRoundCard(ArrayList<Card> cards)
 	 {
-		 oneroundcard=cards;
+		 oneroundcard=cards;//¤£À´
 
 	 }
 	 public boolean hitMe() 

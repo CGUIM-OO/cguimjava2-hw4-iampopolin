@@ -86,7 +86,7 @@ public class Deck {
 				
 			{
 				shuffle();
-				getOneCard(true); //¤£À´
+				getOneCard( isOpened);  
 				return null;
 				
 			}
